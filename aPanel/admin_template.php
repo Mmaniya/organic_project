@@ -129,12 +129,12 @@ if ($_SESSION['useremail'] == '' || $_SESSION['username'] == '') {
                                         <span class="pcoded-mtext">Users</span>
                                     </a>
                                 </li>
-                                <li class="">
+                                <!-- <li class="">
                                     <a href="<?php echo ADMIN_URL ?>user-view.php">
                                         <span class="pcoded-micon"><i class="fa fa-eye"></i></span>
                                         <span class="pcoded-mtext">Users</span>
                                     </a>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                     </nav>
